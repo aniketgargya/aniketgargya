@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey, I'm Aniket!
+
+- I'm currently studying CS at UIUC
+- Checkout my work-in-progress website: https://aniketgargya.github.io/
 
 <!--
 **aniketgargya/aniketgargya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
