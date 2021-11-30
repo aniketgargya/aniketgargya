@@ -1,4 +1,4 @@
-### Hey, I'm Aniket!
+## Hey, I'm Aniket!
 
 I'm currently studying CS at UIUC
 
